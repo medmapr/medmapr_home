@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://www.medmapr.com/blog/1000/01/01/header/</loc>
+    
+    <lastmod>1000-01-01T00:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.medmapr.com/blog/0999/01/01/trisection/</loc>
+    
+    <lastmod>0999-01-01T00:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.medmapr.com/blog/0998/01/01/mission/</loc>
+    
+    <lastmod>0998-01-01T00:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.medmapr.com/blog/0997/01/01/solutions/</loc>
+    
+    <lastmod>0997-01-01T00:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.medmapr.com/blog/0996/01/01/company/</loc>
+    
+    <lastmod>0996-01-01T00:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.medmapr.com/blog/0995/01/01/contact/</loc>
+    
+    <lastmod>0995-01-01T00:00:00-05:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://www.medmapr.com/blog/archives/</loc>
+    <lastmod>2014-10-17T11:47:45-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.medmapr.com/</loc>
+    <lastmod>2014-10-17T11:47:45-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  
+</urlset>
